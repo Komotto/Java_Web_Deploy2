@@ -1,3 +1,4 @@
+chmod +x run.sh
 #!/bin/bash
 set -e
 
