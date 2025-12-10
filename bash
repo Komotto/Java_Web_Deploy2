@@ -26,5 +26,5 @@ javac -d out src/Main.java && java -cp out Main
 
 
 
-bash run.sh run
+run.sh run
 
