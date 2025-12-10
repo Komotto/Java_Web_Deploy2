@@ -1,9 +1,3 @@
-git init
-git add README.md
-git commit -m "teste1"
-git branch -M main
-git remote add origin https://github.com/Komotto/Java_Web_Deploy2.git
-git push -u origin main
 
 import com.sun.net.httpserver.HttpServer;
 import com.sun.net.httpserver.HttpHandler;
