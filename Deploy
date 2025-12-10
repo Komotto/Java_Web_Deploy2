@@ -1,0 +1,6 @@
+sudo dnf install git -y
+git clone https://github.com/SEU_USUARIO/Java_Web_Deploy.git
+cd Java_Web_Deploy
+bash run.sh
+
+
