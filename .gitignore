@@ -1,15 +1,14 @@
+# Build
+build/
+app.war
 
-# Arquivos compilados
-out/
+# Java
 *.class
 
 # Logs
 *.log
 
-# Editor/IDE
-.idea/
-.vscode/
+# SO
 .DS_Store
-
 
 
